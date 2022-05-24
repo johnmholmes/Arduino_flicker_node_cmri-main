@@ -9,3 +9,5 @@ The code is only to show you how it could be done. it has been tested on an ardu
 
 This will only work with a usb lead or a different rs485 to ttl converter that I use. It could be coverted to use the cheaper unit
 but that unit uses pin 2 to work the rs485 bus.
+
+verion 2 is a better way this could have been done in this case the led is on pin 10 not pin 3
