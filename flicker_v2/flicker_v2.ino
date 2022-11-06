@@ -1,4 +1,4 @@
-
+//This code was made with the help of Paul Redhead
 int ledPin = 10;
 byte flicker[] = {180, 30, 89, 23, 255, 200, 90, 150, 60, 230, 180, 45, 90};
 
